@@ -1,3 +1,18 @@
+# Arquivos sensíveis
 credentials.json
 token.json
+
+# Dados baixados
+downloads/
 emails/
+attachments/
+*.pdf
+*.xml
+
+# Ambiente virtual
+venv/
+.env
+
+# Arquivos temporários
+__pycache__/
+*.pyc
